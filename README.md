@@ -1,2 +1,2 @@
-# ackermann
-A tree-flattening algorithm to calculate the Ackermann function without memoization.
+# ARM-Tree
+An ARMv8 implementation of a tree-flattening algorithm to calculate some deeply-recursive functions, such as Ackermann, without the use of call stack.
